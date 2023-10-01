@@ -79,7 +79,10 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "category-link": {
+      "type": "category-link"
     }
   },
-  "order": ["slideshow", "featured_collection"]
+  "order": ["slideshow", "category-link", "featured_collection"]
 }
